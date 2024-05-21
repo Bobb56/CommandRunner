@@ -1,0 +1,5 @@
+@echo off
+color 02
+echo This computer has been hacked by MPI
+echo But as we're nice people, we'll let you have access to the PC (if you don't do anything stupid)
+pause

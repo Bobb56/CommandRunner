@@ -1,0 +1,3 @@
+syntaxe pour le fichier de settings
+
+code_exec nom_fichier avec_fenetre executer supprimer_fichier

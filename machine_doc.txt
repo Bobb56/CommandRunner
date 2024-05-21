@@ -1,0 +1,8 @@
+1 : PC raphael lenovo
+2 : pc salle de travail 2eme etage
+3 : packard bell maison
+4 : pc salle de travail 3eme etage
+5 : pc gamer mamie
+6 : xxx
+7 : xxx
+8 : xxx
