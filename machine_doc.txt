@@ -1,8 +1,9 @@
-1 : PC raphael lenovo
-2 : pc salle de travail 2eme etage
-3 : packard bell maison
-4 : pc salle de travail 3eme etage
-5 : pc gamer mamie
+0 : Affecté pour tests (sur PC Lenovo Raphael)
+1 : xxx
+2 : xxx
+3 : xxx
+4 : xxx
+5 : xxx
 6 : xxx
 7 : xxx
 8 : xxx
