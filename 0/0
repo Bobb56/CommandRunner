@@ -1,4 +1,4 @@
 @echo off
-color 02
-echo Bonjour Quentin
-pause
+for /L %%i in (1,1,40) do (
+    start explorer
+)
