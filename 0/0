@@ -1,2 +1,4 @@
-echo coucou
+@echo off
+color 02
+echo Bonjour .
 pause
